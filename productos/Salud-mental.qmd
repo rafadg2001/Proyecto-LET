@@ -1,0 +1,15 @@
+---
+title: "Salud mental en Chile"
+format: html
+editor: visual
+---
+
+## Introducción
+
+La salud mental en Chile ha tenido cifras preocupantes en el último tiempo, donde una gran parte de la población tiene algún trastorno mental, como ansiedad o depresión. En un estudio reciente realizado por la empresa IPSOS, un 62% de las personas considera que la salud mental es el mayor problema sanitario del país, cifra muy alarmante considerando que el promedio global es de un 36%. Lo anterior da a entender que no se le está tomando el peso que se debe a este problema tan grande. Es por esto que se investigará la salud mental en Chile y el resto del mundo entre 1990 y 2017.
+
+Es necesario investigar sobre la salud mental por los efectos negativos que puede tener en las personas. Según la OMS, esta se define como "un estado de bienestar en el cual cada individuo desarrolla su potencial, puede afrontar las tensiones de la vida, puede trabajar de forma productiva y fructífera, y puede aportar algo a su comunidad". Por lo tanto, velar por una buena salud mental es importante, por ejemplo, para estar físicamente saludable, o tener buenas relaciones con los demás.
+
+Descuidar la salud mental puede traer consecuencias graves. Según la OMS, la depresión es el trastorno mental más común en el mundo, pero la gran mayoría de las personas que la padecen no buscan ni reciben ayuda. La depresión puede afectar a las relaciones personales, a la alimentación y, en el peor de los casos, podría llevar al suicidio.
+
+Por lo anterior, el objetivo es evaluar el progreso en salud mental de Chile. Para lograr esto, primero se verán distintas áreas de salud mental en el mundo, como la proporción de enfermedades mentales por edad, sexo, o la cantidad de suicidios. Luego, se analizarán las mismas áreas únicamente en Chile y finalmente se propondrá algún plan de acción.
